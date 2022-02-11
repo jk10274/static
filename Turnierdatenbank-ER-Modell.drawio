@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T11:44:21.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" version="16.5.6" etag="_DF0qerlSBA1rh1wbvhE" type="github"><diagram id="UOE-vnrbzg_eY1lBiwWQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-11T11:48:59.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="Ve8S25rFlkPYmlw9Us5W" version="16.5.6" type="github">
+  <diagram id="UOE-vnrbzg_eY1lBiwWQ" name="Page-1">
+    <mxGraphModel dx="1018" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="on7xpFSxNQ_oAOqF3Vgx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="on7xpFSxNQ_oAOqF3Vgx-1" target="on7xpFSxNQ_oAOqF3Vgx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="on7xpFSxNQ_oAOqF3Vgx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="on7xpFSxNQ_oAOqF3Vgx-1" target="on7xpFSxNQ_oAOqF3Vgx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="on7xpFSxNQ_oAOqF3Vgx-1" value="ist teil" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="on7xpFSxNQ_oAOqF3Vgx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="on7xpFSxNQ_oAOqF3Vgx-2" target="on7xpFSxNQ_oAOqF3Vgx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="on7xpFSxNQ_oAOqF3Vgx-2" value="Namen" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="414" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="on7xpFSxNQ_oAOqF3Vgx-3" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="on7xpFSxNQ_oAOqF3Vgx-4" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="on7xpFSxNQ_oAOqF3Vgx-5" value="Spieler_in" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="on7xpFSxNQ_oAOqF3Vgx-7" value="Verein" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="on7xpFSxNQ_oAOqF3Vgx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="on7xpFSxNQ_oAOqF3Vgx-10" target="on7xpFSxNQ_oAOqF3Vgx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="on7xpFSxNQ_oAOqF3Vgx-10" value="Geburtsdatum" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="550" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
